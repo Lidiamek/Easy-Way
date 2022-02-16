@@ -10,7 +10,7 @@ function App() {
         <div className="grid-container">
             <header className="row">
                 <div>
-                    <a href="/" className="brand"> <img src="https://img.icons8.com/ios-filled/50/000000/checkout.png"/> Easy Way </a>
+                    <a href="/" className="brand"> <img src="https://img.icons8.com/ios-filled/50/000000/checkout.png" alt=''/> Easy Way </a>
                 </div>
 
                 <div className="Cart-signin-padding">

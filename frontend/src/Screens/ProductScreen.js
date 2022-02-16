@@ -5,8 +5,6 @@ import data from '../data';
 
 export default function ProductScreen(props) {
 
-    {// props.match.params.id       
-    }
         const {id} = useParams();
 
         const product = data.products.find( x => x._id === id );
